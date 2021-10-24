@@ -36,12 +36,12 @@ Here are some ideas to get you started:
 
 ## ⚡ My Skill ⚡
 
-![React](https://img.shields.io/badge/React?style=flat-square&logo=React&logoColor=black)<br>
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)<br>
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)<br>
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white) 
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square)
 <br><br>
 
 ![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)
