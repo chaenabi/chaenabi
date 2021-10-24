@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ## ⚡ My Skill ⚡
 
-![React](https://img.shields.io/badge/React%20/%20ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black)<br>
+![React](https://img.shields.io/badge/React%20/%20React-61DAFB?style=flat-square&logo=React&logoColor=black)<br>
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)<br>
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
